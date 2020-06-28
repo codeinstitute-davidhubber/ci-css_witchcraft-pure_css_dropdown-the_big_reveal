@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-css_witchcraft-pure_css_dropdown-the_big_reveal/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-css_witchcraft-pure_css_dropdown-the_big_reveal/'**
 ***
 title: **'Code Institiute - CSS Witchcraft - Pure CSS Dropdown: The Big Reveal!'**
 
